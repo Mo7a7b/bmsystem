@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmsystem/static/css/main.caa39a29.css",
+    "main.js": "/bmsystem/static/js/main.2f313738.js",
+    "index.html": "/bmsystem/index.html",
+    "main.caa39a29.css.map": "/bmsystem/static/css/main.caa39a29.css.map",
+    "main.2f313738.js.map": "/bmsystem/static/js/main.2f313738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caa39a29.css",
+    "static/js/main.2f313738.js"
+  ]
+}
