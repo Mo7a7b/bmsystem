@@ -13,7 +13,7 @@ export default function Error() {
   }, [error]);
   function where(e) {
     e.preventDefault();
-    location.href = "/";
+    location.href = "/bmsystem";
   }
   return (
     <div height={"100vh"}>

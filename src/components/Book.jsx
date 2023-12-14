@@ -64,11 +64,11 @@ const Book = () => {
   });
   function where(e) {
     if (e === "Add Book") {
-      location.href = "/add";
+      location.href = "/bmsystem/add";
     } else if (e === "Show Books") {
-      location.href = "/allBooks";
+      location.href = "/bmsystem/allBooks";
     } else if (e === "Statistics") {
-      location.href = "/statistics";
+      location.href = "/bmsystem/statistics";
     } else {
       console.log("errr");
     }

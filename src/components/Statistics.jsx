@@ -44,11 +44,11 @@ const Statistics = () => {
   };
   function where(e) {
     if (e === "Add Book") {
-      location.href = "/add";
+      location.href = "/bmsystem/add";
     } else if (e === "Home") {
-      location.href = "/";
+      location.href = "/bmsystem";
     } else if (e === "Show Books") {
-      location.href = "/allBooks";
+      location.href = "/bmsystem/allBooks";
     } else {
       console.log("errr");
     }
